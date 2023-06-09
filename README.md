@@ -4,7 +4,7 @@
 
 📦 一个 PHP 获取第三方（天眼查、企查查、启信宝）工商信息 SDK，公司业务需求问题，目前只实现了搜索和获取机构基本信息，其余接口未进行对接，大家如有需求可根据需求自行fork或者提交pr。
 
-为了节约实现时间加快业务实现，总体架构借鉴了[yansongda/pay](https://github.com/yansongda/pay){:target="_blank"}，之前在做支付相关业务时，轮子造的很不错，比较简单容易理解，而且代码优雅，感谢yansongda作出的技术贡献。
+为了节约实现时间加快业务实现，总体架构借鉴了[yansongda/pay](https://github.com/yansongda/pay)，之前在做支付相关业务时，轮子造的很不错，比较简单容易理解，而且代码优雅，感谢yansongda作出的技术贡献。
 
 欢迎 Star，欢迎 PR！
 
@@ -35,29 +35,29 @@
 
 ### 天眼查
 
-- [搜索](https://open.tianyancha.com/open/816){:target="_blank"}
-- [企业基本信息](https://open.tianyancha.com/open/817){:target="_blank"}
-- [特殊企业基本信息](https://open.tianyancha.com/open/1117){:target="_blank"}
-- [企业基本信息（含企业联系方式）](https://open.tianyancha.com/open/818){:target="_blank"}
+- [搜索](https://open.tianyancha.com/open/816)
+- [企业基本信息](https://open.tianyancha.com/open/817)
+- [特殊企业基本信息](https://open.tianyancha.com/open/1117)
+- [企业基本信息（含企业联系方式）](https://open.tianyancha.com/open/818)
 - ...
 
 ### 企查查
 
-- [企业搜索](https://openapi.qcc.com/dataApi/1027){:target="_blank"}
-- [企业工商模糊搜索](https://openapi.qcc.com/dataApi/886){:target="_blank"}
-- [企业工商照面](https://openapi.qcc.com/dataApi/410){:target="_blank"}
+- [企业搜索](https://openapi.qcc.com/dataApi/1027)
+- [企业工商模糊搜索](https://openapi.qcc.com/dataApi/886)
+- [企业工商照面](https://openapi.qcc.com/dataApi/410)
 - ...
 
 
 ### 启信宝
 
-- [高级搜索](https://data.qixin.com/api-detail?categoryId=1309333f837748bbafda78c9d02f40d8&apiId=1.2&from=qxb-c-api){:target="_blank"}
-- [模糊搜索](https://data.qixin.com/api-detail?categoryId=1309333f837748bbafda78c9d02f40d8&apiId=1.31&from=qxb-c-api){:target="_blank"}
-- [工商照面](https://data.qixin.com/api-detail?categoryId=27C4602EBB38429EK08QR7fy&apiId=1.41&from=qxb-c-api){:target="_blank"}
-- [律所基本信息](https://data.qixin.com/api-detail?categoryId=27C4602EBB38429EK08QR7fy&apiId=35.2&from=qxb-c-api){:target="_blank"}
-- [社会组织基本信息](https://data.qixin.com/api-detail?categoryId=27C4602EBB38429EK08QR7fy&apiId=36.2&from=qxb-c-api){:target="_blank"}
-- [香港企业信息](https://data.qixin.com/api-detail?categoryId=27C4602EBB38429EK08QR7fy&apiId=46.1&from=qxb-c-api){:target="_blank"}
-- [事业单位基本信息](https://data.qixin.com/api-detail?categoryId=27C4602EBB38429EK08QR7fy&apiId=47.96&from=qxb-c-api){:target="_blank"}
+- [高级搜索](https://data.qixin.com/api-detail?categoryId=1309333f837748bbafda78c9d02f40d8&apiId=1.2&from=qxb-c-api)
+- [模糊搜索](https://data.qixin.com/api-detail?categoryId=1309333f837748bbafda78c9d02f40d8&apiId=1.31&from=qxb-c-api)
+- [工商照面](https://data.qixin.com/api-detail?categoryId=27C4602EBB38429EK08QR7fy&apiId=1.41&from=qxb-c-api)
+- [律所基本信息](https://data.qixin.com/api-detail?categoryId=27C4602EBB38429EK08QR7fy&apiId=35.2&from=qxb-c-api)
+- [社会组织基本信息](https://data.qixin.com/api-detail?categoryId=27C4602EBB38429EK08QR7fy&apiId=36.2&from=qxb-c-api)
+- [香港企业信息](https://data.qixin.com/api-detail?categoryId=27C4602EBB38429EK08QR7fy&apiId=46.1&from=qxb-c-api)
+- [事业单位基本信息](https://data.qixin.com/api-detail?categoryId=27C4602EBB38429EK08QR7fy&apiId=47.96&from=qxb-c-api)
 - ...
 
 ## 安装
@@ -66,7 +66,7 @@
 composer require jucloud/easy-organization
 ```
 
-laravel 扩展包请 [传送至这里](https://github.com/jucloud/laravel-organization){:target="_blank"}
+laravel 扩展包请 [传送至这里](https://github.com/jucloud/laravel-organization)
 
 ## 安装
 ```php
