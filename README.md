@@ -9,10 +9,10 @@
 欢迎 Star，欢迎 PR！
 
 
-[![Latest Stable Version](https://poser.pugx.org/jucloud/easywechat/v/stable.svg)](https://packagist.org/packages/jucloud/easy-organization)
-[![Latest Unstable Version](https://poser.pugx.org/jucloud/easywechat/v/unstable.svg)](https://packagist.org/packages/jucloud/easy-organization)
-[![Total Downloads](https://poser.pugx.org/jucloud/easywechat/downloads)](https://packagist.org/packages/jucloud/easy-organization)
-[![License](https://poser.pugx.org/jucloud/easywechat/license)](https://packagist.org/packages/jucloud/easy-organization)
+[![Latest Stable Version](https://poser.pugx.org/jucloud/easy-organization/v/stable.svg)](https://packagist.org/packages/jucloud/easy-organization)
+[![Latest Unstable Version](https://poser.pugx.org/jucloud/easy-organization/v/unstable.svg)](https://packagist.org/packages/jucloud/easy-organization)
+[![Total Downloads](https://poser.pugx.org/jucloud/easy-organization/downloads)](https://packagist.org/packages/jucloud/easy-organization)
+[![License](https://poser.pugx.org/jucloud/easy-organization/license)](https://packagist.org/packages/jucloud/easy-organization)
 
 
 
@@ -67,11 +67,6 @@ composer require jucloud/easy-organization
 ```
 
 laravel 扩展包请 [传送至这里](https://github.com/jucloud/laravel-organization)
-
-## 安装
-```php
-composer require jucloud/laravel-organization:~1.0.0 -vvv
-```
 
 ## 使用示例
 
