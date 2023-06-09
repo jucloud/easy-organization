@@ -9,10 +9,10 @@
 欢迎 Star，欢迎 PR！
 
 
-[![Latest Stable Version](https://poser.pugx.org/w7corp/easywechat/v/stable.svg)](https://packagist.org/packages/w7corp/easywechat)
-[![Latest Unstable Version](https://poser.pugx.org/w7corp/easywechat/v/unstable.svg)](https://packagist.org/packages/w7corp/easywechat)
-[![Total Downloads](https://poser.pugx.org/w7corp/easywechat/downloads)](https://packagist.org/packages/w7corp/easywechat)
-[![License](https://poser.pugx.org/w7corp/easywechat/license)](https://packagist.org/packages/w7corp/easywechat)
+[![Latest Stable Version](https://poser.pugx.org/jucloud/easywechat/v/stable.svg)](https://packagist.org/packages/jucloud/easy-organization)
+[![Latest Unstable Version](https://poser.pugx.org/jucloud/easywechat/v/unstable.svg)](https://packagist.org/packages/jucloud/easy-organization)
+[![Total Downloads](https://poser.pugx.org/jucloud/easywechat/downloads)](https://packagist.org/packages/jucloud/easy-organization)
+[![License](https://poser.pugx.org/jucloud/easywechat/license)](https://packagist.org/packages/jucloud/easy-organization)
 
 
 
